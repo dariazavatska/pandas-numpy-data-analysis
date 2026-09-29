@@ -13,8 +13,6 @@ Practical tasks completed during my Data Analyst internship to practice working 
 
 ## Structure
 
-* `assignment_pandas.ipynb` — original Pandas practical tasks
-* `assignment_numpy.ipynb` — original NumPy practical tasks
 * `assignment_pandas_done.ipynb` — completed Pandas practical tasks
 * `assignment_numpy_done.ipynb` — completed NumPy practical tasks
 * `data/` — datasets used in the tasks
